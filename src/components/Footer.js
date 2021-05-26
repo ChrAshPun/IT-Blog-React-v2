@@ -1,8 +1,11 @@
 import React from "react";
+import "../style2.css"
 
 const Footer = () => {
   return (
-    <h1>Footer</h1>
+    <footer>
+      <a href="#top-of-page">Back to Top</a>
+    </footer>
   )
 };
 

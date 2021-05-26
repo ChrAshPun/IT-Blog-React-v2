@@ -495,7 +495,6 @@ footer a {
 
   .nav-links li:hover,
   .nav-links a:hover {
-    /* color: black; */
     background-color: rgb(175, 48, 57);
     transition: all 0.25s ease;
   }

@@ -1,9 +1,16 @@
 import React from "react";
+import "../style2.css";
+// Components
+import Article from "./Article";
 
-const ArticleList = () => {
+const ArticleList = ({ filteredArticles }) => {
   return (
-    <h1>ArticleList</h1>
-  )
+    <div className="article-list">
+      {filteredArticles.map((article) => {
+        return <Article article={article} />;
+      })}
+    </div>
+  );
 };
 
 export default ArticleList;
