@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/IT-Blog-with-React-Hooks/static/css/main.4480790f.chunk.css",
+    "main.js": "/IT-Blog-with-React-Hooks/static/js/main.b661e66a.chunk.js",
+    "main.js.map": "/IT-Blog-with-React-Hooks/static/js/main.b661e66a.chunk.js.map",
+    "runtime-main.js": "/IT-Blog-with-React-Hooks/static/js/runtime-main.d471f727.js",
+    "runtime-main.js.map": "/IT-Blog-with-React-Hooks/static/js/runtime-main.d471f727.js.map",
+    "static/js/2.fc5bef74.chunk.js": "/IT-Blog-with-React-Hooks/static/js/2.fc5bef74.chunk.js",
+    "static/js/2.fc5bef74.chunk.js.map": "/IT-Blog-with-React-Hooks/static/js/2.fc5bef74.chunk.js.map",
+    "index.html": "/IT-Blog-with-React-Hooks/index.html",
+    "static/css/main.4480790f.chunk.css.map": "/IT-Blog-with-React-Hooks/static/css/main.4480790f.chunk.css.map",
+    "static/js/2.fc5bef74.chunk.js.LICENSE.txt": "/IT-Blog-with-React-Hooks/static/js/2.fc5bef74.chunk.js.LICENSE.txt",
+    "static/media/clearspooler.5db31a1c.png": "/IT-Blog-with-React-Hooks/static/media/clearspooler.5db31a1c.png",
+    "static/media/fileexplorerthispc.acd171b9.png": "/IT-Blog-with-React-Hooks/static/media/fileexplorerthispc.acd171b9.png",
+    "static/media/hieroglyphics.8b0826ec.png": "/IT-Blog-with-React-Hooks/static/media/hieroglyphics.8b0826ec.png",
+    "static/media/instantsearch.00e5fc7e.png": "/IT-Blog-with-React-Hooks/static/media/instantsearch.00e5fc7e.png",
+    "static/media/librarynotregistered.ee0ae22a.png": "/IT-Blog-with-React-Hooks/static/media/librarynotregistered.ee0ae22a.png",
+    "static/media/mailboxquota.8a1ecee3.png": "/IT-Blog-with-React-Hooks/static/media/mailboxquota.8a1ecee3.png",
+    "static/media/mapdrives.f4b61179.png": "/IT-Blog-with-React-Hooks/static/media/mapdrives.f4b61179.png",
+    "static/media/printbyip.2ffb4393.png": "/IT-Blog-with-React-Hooks/static/media/printbyip.2ffb4393.png",
+    "static/media/protectedview2.476d19e6.png": "/IT-Blog-with-React-Hooks/static/media/protectedview2.476d19e6.png",
+    "static/media/retention1.4703311a.png": "/IT-Blog-with-React-Hooks/static/media/retention1.4703311a.png",
+    "static/media/retention2.215e5f56.png": "/IT-Blog-with-React-Hooks/static/media/retention2.215e5f56.png",
+    "static/media/retention3.3667ba0d.png": "/IT-Blog-with-React-Hooks/static/media/retention3.3667ba0d.png",
+    "static/media/setoffolders.de5db0cf.png": "/IT-Blog-with-React-Hooks/static/media/setoffolders.de5db0cf.png",
+    "static/media/smb1error.123324c3.png": "/IT-Blog-with-React-Hooks/static/media/smb1error.123324c3.png",
+    "static/media/unlockadaccount.51b1c5e0.png": "/IT-Blog-with-React-Hooks/static/media/unlockadaccount.51b1c5e0.png",
+    "static/media/winexplorertarget.94b3374f.png": "/IT-Blog-with-React-Hooks/static/media/winexplorertarget.94b3374f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d471f727.js",
+    "static/js/2.fc5bef74.chunk.js",
+    "static/css/main.4480790f.chunk.css",
+    "static/js/main.b661e66a.chunk.js"
+  ]
+}
