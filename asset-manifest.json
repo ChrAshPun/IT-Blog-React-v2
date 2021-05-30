@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/IT-Blog-with-React-Hooks/static/css/main.4480790f.chunk.css",
+    "main.css": "/IT-Blog-with-React-Hooks/static/css/main.f4f49338.chunk.css",
     "main.js": "/IT-Blog-with-React-Hooks/static/js/main.b661e66a.chunk.js",
     "main.js.map": "/IT-Blog-with-React-Hooks/static/js/main.b661e66a.chunk.js.map",
     "runtime-main.js": "/IT-Blog-with-React-Hooks/static/js/runtime-main.d471f727.js",
@@ -8,7 +8,7 @@
     "static/js/2.fc5bef74.chunk.js": "/IT-Blog-with-React-Hooks/static/js/2.fc5bef74.chunk.js",
     "static/js/2.fc5bef74.chunk.js.map": "/IT-Blog-with-React-Hooks/static/js/2.fc5bef74.chunk.js.map",
     "index.html": "/IT-Blog-with-React-Hooks/index.html",
-    "static/css/main.4480790f.chunk.css.map": "/IT-Blog-with-React-Hooks/static/css/main.4480790f.chunk.css.map",
+    "static/css/main.f4f49338.chunk.css.map": "/IT-Blog-with-React-Hooks/static/css/main.f4f49338.chunk.css.map",
     "static/js/2.fc5bef74.chunk.js.LICENSE.txt": "/IT-Blog-with-React-Hooks/static/js/2.fc5bef74.chunk.js.LICENSE.txt",
     "static/media/clearspooler.5db31a1c.png": "/IT-Blog-with-React-Hooks/static/media/clearspooler.5db31a1c.png",
     "static/media/fileexplorerthispc.acd171b9.png": "/IT-Blog-with-React-Hooks/static/media/fileexplorerthispc.acd171b9.png",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.d471f727.js",
     "static/js/2.fc5bef74.chunk.js",
-    "static/css/main.4480790f.chunk.css",
+    "static/css/main.f4f49338.chunk.css",
     "static/js/main.b661e66a.chunk.js"
   ]
 }
