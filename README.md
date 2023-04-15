@@ -1,4 +1,4 @@
-# IT-Blog-with-React-Hooks
+# IT-Blog-React
 
 2nd version of my IT Blog using React Hooks.
 
